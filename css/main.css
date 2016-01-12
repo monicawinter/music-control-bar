@@ -47,7 +47,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 15%;
+  width: 50px;
 }
 
 .time {
@@ -104,7 +104,7 @@ body {
   margin: 0;
   padding: 0;
   color: #666;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   line-height: 16px;
   list-style-type: none;
   width: 85%;
@@ -122,11 +122,12 @@ body {
 .control-list {
   position: absolute;
   right: 0.25em;
-  top: 0.15em;
+  top: 0.13em;
+  font-size: 1.8rem;
 }
 
 .control-heart {
   position: absolute;
-  right: 1em;
+  right: 1.5em;
   top: 0.25em;
 }
